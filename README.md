@@ -43,7 +43,9 @@ Mistral:
 
 OpenAI:
 - APIs: Chat Completions, Function Calling, Assistants (v1 & v2), Files, Vector Stores, Tools (file_search)
-- Models: o1 Preview, o1 Mini (Chat Completions only), GPT-4o, GPT-4, GPT-4 32k, GPT-4 Turbo, GPT-3.5 Turbo, GPT-3.5 Turbo 16k, fine-tuned models (via `Custom` variant)
+- Models: 
+    - Chat Completions only: o1, o1 Preview, o1 Mini, o3 Mini 
+    - Chat Completions & Assistants: GPT-4o, GPT-4, GPT-4 32k, GPT-4 Turbo, GPT-3.5 Turbo, GPT-3.5 Turbo 16k, fine-tuned models (via `Custom` variant)
 
 Perplexity:
 - APIs: Chat Completions
